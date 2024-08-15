@@ -1,5 +1,5 @@
 
-# GAN and VAE Implementation - Deep Learning Course by Dr. Soleymani
+# GAN and VAE Implementation
 
 ## Repository Overview
 This repository contains the implementation of two popular generative models: **Generative Adversarial Networks (GAN)** and **Variational AutoEncoders (VAE)**. These implementations are part of a homework assignment for Dr. Soleymani's deep learning course. The models are trained on the MNIST dataset, which consists of grayscale images of handwritten digits.
